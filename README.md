@@ -1,0 +1,12 @@
+-	To start you need to add data to the following models:
+-
+-	to the Role: [“CUSTOMER”,  “SELLER”, “ MANAGER”, “ADMIN”]
+-	to the Account: [“BASE”, “PREMIUM” ]
+-	to the AdsStatus: [“ACTIVE”, “INACTIVE”]
+
+-	to the Region: REGION
+-	to the City: CITY
+-	to the CarMake: MAKE
+-	to the CarModel: MODEL
+-	to the CarGen: GENERATION
+-	to the Currency : UAH, EUR, USD (or generate through a currencyService, by changing the crone interval)
